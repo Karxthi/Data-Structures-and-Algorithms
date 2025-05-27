@@ -1,7 +1,3 @@
-Here's a well-structured and professional README for the [Karxthi/Data-Structures-and-Algorithms](https://github.com/Karxthi/Data-Structures-and-Algorithms) repository, designed to enhance clarity, usability, and engagement.
-
----
-
 # Data Structures and Algorithms in C
 
 A curated collection of fundamental data structures and algorithms implemented in C, aimed at reinforcing core programming concepts and enhancing problem-solving skills.
