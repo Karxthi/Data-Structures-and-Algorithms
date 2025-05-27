@@ -65,11 +65,6 @@ Please ensure your code adheres to the existing style and includes appropriate d
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📬 Contact
 
@@ -77,12 +72,3 @@ For questions or suggestions, feel free to reach out:
 
 * **GitHub**: [@Karxthi](https://github.com/Karxthi)
 * **LinkedIn**: [Karthik Krishna B](https://www.linkedin.com/in/karthiiii)
-
----
-
-Enhancing the README with structured sections, clear instructions, and contact information can significantly improve the repository's accessibility and appeal to potential contributors and users.([arXiv][2])
-
----
-
-[1]: https://github.com/Karxthi?utm_source=chatgpt.com "Karthik Krishna B Karxthi - GitHub"
-[2]: https://arxiv.org/abs/2206.10772?utm_source=chatgpt.com "An Empirical Study On Correlation between Readme Content and Project Popularity"
